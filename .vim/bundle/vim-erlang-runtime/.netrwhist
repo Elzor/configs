@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/elzor/Desktop/yourwave/project/engine/torrent/apps/edht/src'
+let g:netrw_dirhist_2='/home/elzor/projects/music/web/ypweb/apps/web_gate'
+let g:netrw_dirhist_3='/home/elzor/projects/music/web/ypweb'
+let g:netrw_dirhist_4='/home/elzor/projects/music/web/ypweb/apps/web_gate'
+let g:netrw_dirhist_5='/home/elzor/projects/messaging/src'
+let g:netrw_dirhist_6='/projects/platform/horn/src'
+let g:netrw_dirhist_7='/projects/platform/cc/src'
